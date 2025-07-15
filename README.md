@@ -1,5 +1,5 @@
 # ASSC_Physio_2025
-Code for tutorial Methods for Analyzing Brain-Body Interactions in Consciousness Research
+Code for tutorial Methods for Analyzing Brain-Body Interactions in Consciousness Research (in Heart, Respiration, Stomach folders)
 
 Code for Heart Rate Discrimination (HRD) Task:
 https://github.com/embodied-computation-group/Cardioception
